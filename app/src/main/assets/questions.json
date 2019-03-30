@@ -1,0 +1,177 @@
+[
+  {
+    "question_ee": "Miks võeti algselt kasutusele koolimütsid?",
+    "question_en": "What was the initial reason for introducing school caps?",
+
+    "description_ee": "Koolimütsid võeti kasutusele seetõttu, et eristada erinevate koolide õpilasi.",
+    "description_en": "School caps were introduced to help to identify the school the student was from.",
+
+    "picture_file": "pic1.jpg",
+    "correct_answer": 0,
+
+    "answers": [
+      {
+        "answer_ee": "Selleks, et linnapildis saaks eristada erinevate koolide õpilasi",
+        "answer_en": "They helped to identify the school the student was from"
+      },
+      {
+        "answer_ee": "Sest vanasti olid ilmad külmemad",
+        "answer_en": "Weather used to be colder back then"
+      },
+      {
+        "answer_ee": "Selleks, et eristada koolilapsi lasteaiaealistest",
+        "answer_en": "They helped to distinguish schoolchildren from kindergarteners"
+      }
+    ]
+  },
+    {
+    "question_ee": "Mis asi on tekkel?",
+    "question_en": "What is a 'tekkel'?",
+
+    "description_ee": "Tekkel on koolimüts.",
+    "description_en": "'Tekkel' is a school cap.",
+
+    "picture_file": "pic2.jpg",
+    "correct_answer": 2,
+
+    "answers": [
+      {
+        "answer_ee": "Tüdrukute koolivormi seeliku osa",
+        "answer_en": "The skirt component of girls' school uniforms"
+      },
+      {
+        "answer_ee": "Poiste koolivormi kuuluv lips",
+        "answer_en": "The tie component of boys' school uniforms"
+      },
+      {
+        "answer_ee": "Koolimüts",
+        "answer_en": "A school cap"
+      }
+    ]
+  },
+	  {
+    "question_ee": "Milline neist oli 1950-ndatel tüdrukute kohustuslik koolivormi osa?",
+    "question_en": "Which of the following items was a mandatory part of the girls’ school uniform in the 1950s?",
+
+    "description_ee": "Vastus on: Põll. Viiekümnendate alguses ei olnud koolivormi kandmise nõue veel üleüldine, küll aga oli tüdrukutele oli ette nähtud pruun volangidega koolipõll ja valge pidupõll.",
+    "description_en": "The answer is: Apron. In the 1950s, school uniforms were not yet mandatory across the board, but girls were required to wear brown flounced school aprons and white festive aprons.",
+
+    "picture_file": "pic3.jpg",
+    "correct_answer": 1,
+
+    "answers": [
+      {
+        "answer_ee": "Seelik",
+        "answer_en": "Skirt"
+      },
+      {
+        "answer_ee": "Põll",
+        "answer_en": "Apron"
+      },
+      {
+        "answer_ee": "Valge pluus",
+        "answer_en": "White blouse"
+      }
+    ]
+  },
+	    {
+    "question_ee": "1960-ndate lõpus võeti kasutusele alt laienevad püksid koolivormi osana, neid kutsuti rahvakeeli:",
+    "question_en": "In the late 1960s, school uniforms began to feature trousers with downward-widening legs – these were colloquially known as:",
+
+    "description_ee": "Vastus on 'tolmuimejateks'. Koolivormi kuuluvate pükste kõrval võisid tüdrukud käia koolis suvaliste tumedate alt laiade pükste ehk rahvakeeli tolmuimejatega.",
+    "description_en": "The answer is 'vacuum cleaners'. Besides the school uniform trousers, girls were also allowed to wear other dark trousers with downward-widening legs, colloquially known as vacuum cleaners.",
+
+    "picture_file": "pic4.jpg",
+    "correct_answer": 0,
+
+    "answers": [
+      {
+        "answer_ee": "Tolmuimejateks",
+        "answer_en": "Vacuum cleaners"
+      },
+      {
+        "answer_ee": "Alt laienevateks püksteks",
+        "answer_en": "Bell-bottoms"
+      },
+      {
+        "answer_ee": "Lendavateks lohedeks",
+        "answer_en": "Flying dragons"
+      }
+    ]
+  },
+		  {
+    "question_ee": "Kes kandsid punast kaelarätti?",
+    "question_en": "Who used to wear red neckerchiefs?",
+
+    "description_ee": "Vastus on: Õpilased, kes kuulusid pioneeride hulka",
+    "description_en": "The answer is: Students who belonged to the pioneer movement",
+
+    "picture_file": "pic5.jpg",
+    "correct_answer": 1,
+
+    "answers": [
+      {
+        "answer_ee": "Õpilased, kel kodutöö kaks päeva järjest tegemata",
+        "answer_en": "Students who failed to do their homework for two days in a row"
+      },
+      {
+        "answer_ee": "Õpilased, kes kuulusid pioneeride hulka",
+        "answer_en": "Students who belonged to the pioneer movement"
+      },
+      {
+        "answer_ee": "Õpilased, kes olid sel päeval korrapidajad",
+        "answer_en": "Students who were the hall monitors of that day"
+      }
+    ]
+  },
+		    {
+    "question_ee": "Millise kooli lipse kaunistavad õitsvad männikäbid?",
+    "question_en": "Which school has ties that depict blooming pine cones?",
+
+    "description_ee": "Vastus on: Tallinna Saksa Gümnaasium",
+    "description_en": "The answer is: Tallinn German Gymnasium",
+
+    "picture_file": "pic1.jpg",
+    "correct_answer": 1,
+
+    "answers": [
+      {
+        "answer_ee": "Saaremaa Kool",
+        "answer_en": "Saaremaa School"
+      },
+      {
+        "answer_ee": "Tallinna Saksa Gümnaasium",
+        "answer_en": "Tallinn German Gymnasium"
+      },
+      {
+        "answer_ee": "Häädemeeste Põhikool",
+        "answer_en": "Häädemeeste Primary School"
+      }
+    ]
+  },
+			  {
+    "question_ee": "Millise kooli müts on aastast 1923 musta randiga kuldse tammetõru märgiga kirsipunane tekkel?",
+    "question_en": "Which school has since 1923 had a cerise school cap with a black stripe and a golden acorn symbol?",
+
+    "description_ee": "Vastus on: Jakob Westholmi Gümnaasium",
+    "description_en": "The answer is: Jakob Westholm Gymnasium",
+
+    "picture_file": "pic1.jpg",
+    "correct_answer": 0,
+
+    "answers": [
+      {
+        "answer_ee": "Jakob Westholmi Gümnaasium",
+        "answer_en": "Jakob Westholm Gymnasium"
+      },
+      {
+        "answer_ee": "Tartu Luterlik Peetri kool",
+        "answer_en": "St Peter’s Lutheran School of Tartu"
+      },
+      {
+        "answer_ee": "Pärnu Sütevaka Humanitaargümnaasium",
+        "answer_en": "Pärnu Sütevaka High School of Humanities"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mälumäng</string>
+    <string name="tule_k_simustele_vastama">Tule küsimustele vastama!</string>
+    <string name="come_answer_some_questions">Come answer some questions!</string>
+</resources>
